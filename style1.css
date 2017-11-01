@@ -1,0 +1,31 @@
+
+body {
+    background: black;
+}
+
+h1 {
+    color: #ffff66;
+    font-size: 40px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h3 {
+
+    font-size: 20px;
+    font-variant: small-caps;
+    color: #00ccff
+}
+
+p {
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    color: #ffffff
+
+}
+
+a:link {
+    color: #0066ff
+}
+
+a:visited {
+    color: #9933ff
+}
