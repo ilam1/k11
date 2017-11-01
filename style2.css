@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/bV3WiYh.jpg");
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    font-size: 300%;
+}
+
+h3 {
+    color: red;
+    font-size: 200%;
+}
+
+p {
+    font-family: verdana;
+    font-size: 150%;
+    border: 3px solid white;
+    color: powderblue;
+    padding: 30px;
+    margin: 20px;
+}
