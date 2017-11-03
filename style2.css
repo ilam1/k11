@@ -6,6 +6,7 @@ h1 {
     text-align: center;
     color: yellow;
     font-size: 300%;
+    animation: blinker 5s linear infinite;
 }
 
 h3 {
@@ -20,4 +21,10 @@ p {
     color: powderblue;
     padding: 30px;
     margin: 20px;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
 }

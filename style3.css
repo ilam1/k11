@@ -1,0 +1,62 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/2Hn0iCf.jpg");
+    cursor: crosshair;
+
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    font-size: 300%;
+    text-shadow: 0 0 20px #FF0000, 0 0 20px #0000FF;
+    font-variant: small-caps;
+}
+
+h2 {
+    text-decoration-style: wavy;
+    color: blue;
+
+}
+
+h3 {
+    color: crimson;
+    font-size: 200%;
+    font-variant: small-caps;
+}
+
+p {
+    transform: rotate(359deg);
+    font-family: verdana;
+    font-size: 150%;
+    border: 3px solid white;
+    color: black;
+    padding: 30px;
+    margin: 20px;
+    border-style:groove;
+    font-weight:bold;
+}
+
+a:link {
+    color: #0066ff
+}
+
+a:visited {
+    color: #9933ff
+}
+
+a:active {
+    background-color: yellow;
+}
+
+a:hover {
+    color: crimson;
+}
+
+ul {
+    list-style-type: georgian;
+    color: blue;
+}
+
+li {
+    animation: marquee 10s linear infinite alternate;
+}
